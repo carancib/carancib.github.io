@@ -12,10 +12,10 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-CL"
 title                    : "Carlos Arancibia Blog"
 title_separator          : "-"
 name                     : "Carlos Arancibia"
@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Arancibia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Economist, poker player and interested in all things related with data. Currently studying in the MSc Data Analytics at the UoS"
   location         : "Sheffield, UK"
   email            :
   uri              :
