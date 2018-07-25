@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "Data Blog"
+title                    : "EV+ Blog"
 title_separator          : "-"
 name                     : "Carlos Arancibia"
 description              : "Blog de Data Science"
@@ -102,9 +102,10 @@ analytics:
 author:
   name             : "Carlos Arancibia"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chilean Economist, currently studying a MSc in Data Analytics at the University of Sheffield. Love data, bayesian statistics and leaving things better than they were before. Amateur poker player"
+  bio              : "Chilean, currently studying a MSc in Data Analytics at the University of Sheffield. Love data, bayesian statistics and leaving things better than they were before.
+  Posts in English and Spanish"
   location         : "Sheffield, UK"
-  email            :
+  email            : "carlosarancibian@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -125,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "carancib_"
   vine             :
   weibo            :
   xing             :
