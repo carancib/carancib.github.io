@@ -20,4 +20,4 @@ El 15 y 16 de Octubre voy a participar de una Hackathon de Machine Learning orga
 
 De regalo para el final, una foto típica inglesa.
 
-![image-center](/images/engbrek.jpg){: .align-center}
+![Desayuno](https://raw.githubusercontent.com/carancib/carancib.github.io/master/images/engbrek.JPG){: .align-center}
