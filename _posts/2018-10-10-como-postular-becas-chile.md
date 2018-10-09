@@ -11,7 +11,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 Hola! Si estás leyendo esto es porque asumo que estás interesado en participar en el concurso de Becas Chile, en este post intentaré contar con el mayor detalle los pasos a seguir para poder tener la mayor probabilidad de ganarte la beca.
 
-#Paso 1 : Bases
+# Bases
 
 Creo que no me voy a cansar de repetirle a los que me preguntan, el paso número 1 es **LEERSE LAS BASES**
 
@@ -23,7 +23,7 @@ Grupo Facebook:[aquí](https://www.facebook.com/groups/61785055016/?ref=bookmark
 
 Conicyt es muy mañoso con los papeles y documentos así que fijense bien qué necesitan
 
-#Paso 2 : Estimar Puntaje
+# Estimar Puntaje
 
 Este paso recomiendo hacerlo al tiro, ya que te de una idea de como estás parado frente a los candidatos que ya se la han ganado.
 
@@ -63,13 +63,13 @@ Si ustedes quieren postular al concurso normal, su estimación debería estar al
 
 De seguro que el concurso de áreas prioritarias también subirá su puntaje, yo creo que al menos quedará en 4.3 para el prox año.
 
-#Paso 3 : Elegir la Universidad y programa
+# Elegir la Universidad y programa
 
 Si creen que el puntaje les va a alcanzar con una buena Universidad, entonces ahora tienen que meterse de cabeza a los sub-ranking OCDE para ver las Universidades que están dentro del top 100 (las que tienen 5 puntos). Ahi ya es a gusto de cada uno rebuscar el programa y lo más importante **ver los requisitos de ingreso**
 
 Por lo general les van a pedir por lo menos los documentos que detallo en la siguiente parte
 
-#Paso 4 : Papeleo y más Papeleo
+# Papeleo y más Papeleo
 
 Ármense de paciencia, porque aquí es donde más tiempo y plata se gasta.
 
