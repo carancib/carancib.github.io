@@ -11,7 +11,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 Hola! Si estás leyendo esto es porque asumo que estás interesado en participar en el concurso de Becas Chile, en este post intentaré contar con el mayor detalle los pasos a seguir para poder tener la mayor probabilidad de ganarte la beca.
 
-# Bases
+# Bases ~> id="Bases"
 
 Creo que no me voy a cansar de repetirle a los que me preguntan, el paso número 1 es **LEERSE LAS BASES**
 
@@ -23,7 +23,7 @@ Grupo Facebook:[aquí](https://www.facebook.com/groups/61785055016/?ref=bookmark
 
 Conicyt es muy mañoso con los papeles y documentos así que fijense bien qué necesitan
 
-# Estimar Puntaje
+# Estimar Puntaje ~> id="Puntaje"
 
 Este paso recomiendo hacerlo al tiro, ya que te de una idea de como estás parado frente a los candidatos que ya se la han ganado.
 
