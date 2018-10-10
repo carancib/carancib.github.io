@@ -1,15 +1,15 @@
 ---
-title: "Como postular a Becas Chile de la manera más eficiente"
+title: "Como postular a Becas Chile y no morir en el intento"
 date: 2018-10-10
 tags: [post]
-excerpt: "Este post es un resumen de todos los trámites e investigaciones que necesitan hacer antes de postular a Becas Chile"
+excerpt: "Este post es un resumen de todos los trámites e investigaciones que hay que hacer antes de postular a Becas Chile"
 toc: true
 toc_sticky: true
 toc_label: "Becas Chile"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "user-graduate"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Hola! Si estás leyendo esto es porque asumo que estás interesado en participar en el concurso de Becas Chile, en este post intentaré contar con el mayor detalle los pasos a seguir para poder tener la mayor probabilidad de ganarte la beca.
+Si estás leyendo esto es porque asumo que estás interesado en participar en el concurso de Becas Chile, en este post intentaré contar con el mayor detalle los pasos a seguir para poder tener la mayor probabilidad de ganarte la beca.
 
 ## Bases
 
@@ -17,17 +17,15 @@ Creo que no me voy a cansar de repetirle a los que me preguntan, el paso número
 
 Aqui les dejo los links de las bases del concurso 2018, además está el link del grupo de Facebook dónde está la mayoria de las preguntas resueltas.
 
-Becas Chile Concurso Normal: [aquí](hhttp://www.conicyt.cl/becasconicyt/files/2018/03/Bases-Becas-de-Mag%C3%ADster-en-el-Extranjero-Becas-Chile_2018-1.pdf)
-Becas Chile Areas Prioritarias:[aquí](http://www.conicyt.cl/becasconicyt/files/2018/03/Bases-Becas-de-Mag%C3%ADster-en-el-Extranjero-Becas-Chile-en-%C3%81reas-Prioritarias-2018.pdf)
-Grupo Facebook:[aquí](https://www.facebook.com/groups/61785055016/?ref=bookmarks)
-
-Conicyt es muy mañoso con los papeles y documentos así que fijense bien qué necesitan
+* Becas Chile Concurso Normal: [aquí](hhttp://www.conicyt.cl/becasconicyt/files/2018/03/Bases-Becas-de-Mag%C3%ADster-en-el-Extranjero-Becas-Chile_2018-1.pdf)
+* Becas Chile Areas Prioritarias:[aquí](http://www.conicyt.cl/becasconicyt/files/2018/03/Bases-Becas-de-Mag%C3%ADster-en-el-Extranjero-Becas-Chile-en-%C3%81reas-Prioritarias-2018.pdf)
+* Grupo Facebook:[aquí](https://www.facebook.com/groups/61785055016/?ref=bookmarks)
 
 ## Estimar Puntaje
 
-Este paso recomiendo hacerlo al tiro, ya que te de una idea de como estás parado frente a los candidatos que ya se la han ganado.
+Este paso recomiendo hacerlo antes de cualquier postulación, ya que te de una idea de como estás parado frente a los candidatos que ya se la han ganado.
 
-La forma de selección es mediante un puntaje ponderado, el cual se calcula con varios factores, siendo los más importantes:
+La forma de selección es mediante un puntaje ponderado, el cuál se calcula con varios factores, siendo los más importantes:
 
 * Ranking Universidad de Destino (según sub-área ocde)
 * Ranking Pregrado
@@ -57,11 +55,9 @@ En mi caso, estos fueron mis puntajes reales para la postulación de Areas Prior
 
 Como ven, mi puntaje de Universidad de Destino es mucho más bajo porque Sheffield no estaba tan bien en el ranking de Informática (es imposible discutir este ranking con Conicyt, así que ni piensen en postular a algo con menos de 4)
 
-**Ahora** mi caso es bien particular porque el concurso de Áreas prioritarias era nuevo y no se sabía en cuánto iba a quedar el puntaje de corte. Yo asumí que dado que el último seleccionado del concurso regular corta entre 4.5 y 4.6 era probable que este concurso quedara en 4 - 4.1 como corte.
+Ahora, mi caso es más particular porque el concurso de Áreas Prioritarias era nuevo y no se sabía en cuánto iba a quedar el puntaje de corte. Yo asumí que dado que el último seleccionado del concurso regular cortó entre 4.5 y 4.6 era probable que este concurso quedara con 4 - 4.1 como corte.
 
-Si ustedes quieren postular al concurso normal, su estimación debería estar alrededor del 4.5 para poder tener alguna oportunidad de ganársela, porque ese concurso es cada vez más competitivo.
-
-De seguro que el concurso de áreas prioritarias también subirá su puntaje, yo creo que al menos quedará en 4.3 para el prox año.
+Si ustedes quieren postular al concurso normal, su estimación debería estar alrededor del 4.5 para poder tener alguna oportunidad de ganársela, porque ese concurso es cada vez más competitivo y es casi seguro que el concurso de áreas prioritarias también subirá su puntaje, yo creo que al menos quedará en 4.3 para el prox año.
 
 ## Elegir la Universidad y programa
 
@@ -73,13 +69,14 @@ Por lo general les van a pedir por lo menos los documentos que detallo en la sig
 
 Ármense de paciencia, porque aquí es donde más tiempo y plata se gasta.
 
-En mi caso, para postular a UK necesitaba tener los siguientes documentos:
+En mi caso, para postular a **Reino Unido** necesitaba tener los siguientes documentos:
 
 * Certificado de Título (original y traducción al inglés)
 * Concentración de Notas (original y traducción al inglés)
 * Carta de Recomendación (original y traducción al inglés, o sólo en inglés)
 * Carta de Motivación (en inglés)
 * Acreditación de Nivel de Inglés (IELTS o TOEFL dependiendo de la U)
+* Pagar fee de postulación (depende de la universidad)
 
 Algunas Universidad piden examenes de ingreso, o más papeleo, en mi caso (Universidad de Chile) los trámites fueron:
 
@@ -92,6 +89,14 @@ Algunas Universidad piden examenes de ingreso, o más papeleo, en mi caso (Unive
 
 Luego de eso, busque fechas para dar el IELTS (en mi caso lo hice en el Instituto Chileno Británico)
 
-Con todos estos papeles, ya puedes postular a las universidades que quieras a través de los formularios por internet, la mayoría de las universidades cobran un fee por *revisar* tu postulación, pero hay algunas que no (Edimburgo y Sheffield por ejemplo).
+## Carta de Aceptación
 
-*Continuará*
+Una vez que reciban la carta de aceptación (incondicional o condicional al idioma) de parte de la Universidad, deben empezar a rellenar el formulario de Conicyt (que también toma su tiempo).
+
+## Resultados
+
+Una vez tengan los resultados, se procede a la firma del convenio (más papeleo) y una vez firmado el convenio, se demora aproximadamente 2 meses en tener el primer pago.
+
+Como ven, es un proceso largo, así que ármense de paciencia e investiguen bien acerca de las Universidades, es mejor esperar un año si no quedaron en alguna Universidad que les gusta, a postular a cualquier cosa por ganarse la beca.
+
+Cualquier duda pueden mandarme un mail o escribirme por twitter :)
