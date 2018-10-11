@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "EV+ Blog"
+title                    : "Random Walking"
 title_separator          : "-"
 name                     : "Carlos Arancibia"
 description              : "Blog de Data Science"
@@ -79,7 +79,7 @@ naver_site_verification  :
 twitter:
   username               : "carancib_"
 facebook:
-  username               : "arancibian"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
