@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "Random Walking"
+title                    : ""
 title_separator          : "-"
 name                     : "Carlos Arancibia"
 description              : "Blog de Data Science"
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "carancib_"
+  username               : "carancibianu"
 facebook:
   username               :
   app_id                 :
@@ -102,8 +102,7 @@ analytics:
 author:
   name             : "Carlos Arancibia"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chilean, currently studying a MSc in Data Analytics at the University of Sheffield. Love data, bayesian statistics and leaving things better than they were before.
-  Posts in English and Spanish"
+  bio              : "Chilean, currently studying a MSc in Data Analytics at the University of Sheffield. I like using data to make things better than they were before."
   location         : "Sheffield, UK"
   email            : "carlosarancibian@gmail.com"
   uri              :
@@ -126,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "carancib_"
+  twitter          : "carancibanu"
   vine             :
   weibo            :
   xing             :

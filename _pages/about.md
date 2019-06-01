@@ -3,6 +3,6 @@ title: "About"
 permalink : /about/
 ---
 
-I'm an Economist from the University of Chile, currently studying a MSc in Data Analytics at the University of Sheffield.
+I studied Economics at the University of Chile and I'm currently studying a MSc in Data Analytics at the University of Sheffield.
 
-I'm interested in data modeling, game theory, bayesian statistics and all things related to Data Science.
+I'm interested in the applications of Machine Learning for Tech products and helping people make better decisions. You can contact me through email, Linkedin or Twitter :)
