@@ -1,5 +1,5 @@
 ---
-title: "Guía para estudiar en el Reino Unido"
+title: "Tips para estudiar y vivir en el Reino Unido"
 date: 2019-01-06
 tags: [post]
 excerpt: "Todo lo que deberías saber para hacer tu llegada al Reino Unido de la manera más fácil"
@@ -9,7 +9,7 @@ toc_label: "Estudiar en el Reino Unido"
 toc_icon: "user-graduate"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-En este post daré algunos tips para los que quieran saber un poco más de los primeros pasos al irse a estudiar al Reino Unido
+En este post daré algunos tips para los que quieran saber un poco más de los primeros pasos al irse a estudiar al Reino Unido. Intenté recopliar todo lo que me gustaría haber sabido antes de venir para tener la película clara.
 
 ## Visa
 
@@ -32,7 +32,9 @@ Super importante, desbloqueen su teléfono en Chile para poder usarlo en el extr
 La compañía que recomiendo es giffgaff, pueden pedir un Chip gratis en este [link](https://www.giffgaff.com/orders/affiliate/carancib_1535991079323) y se los mandan a la casa, tienen unos packs de minutos + datos muy buenos y que se pueden cambiar cada mes dependiendo del uso. Además tienen roaming en todo Europa (como si estuvieras usando el celular en UK) y llamar a Chile es relativamente barato y cómodo (40 pesos fijo y 90 pesos a celular por minuto).
 
 
-## Cuentas de Banco
+## Plata de la Beca y Cuentas de Banco
+
+Para recibir la plata de la beca, yo preferí usar mi cuenta chilena en pesos(Banco Falabella) y pagar todo con tarjeta de crédito (acá casi todo se puede, incluso pagué el arriendo con TC). Si necesitaba efectivo, la débito del banco falabella tiene costo $0 por retirar en cajeros (y casi todos los cajeros en UK son gratis). 
 
 Abrir una cuenta de Banco es bastante simple en Inglaterra, pero deben tener un domicilio establecido para poder tener un comprobante que mostrar al banco. Por lo general en la universidad les entregarán una carta que certifica que son estudiantes y con esa carta pueden ir a cualquier banco a sacar una cuenta.
 
@@ -48,9 +50,12 @@ Para buscar piezas/deptos recomiendo [Spareroom](https://www.spareroom.co.uk/) o
 
 Les recomiendo leer la guia del gobierno de UK para la gente que quiere arrendar [Guía](https://www.gov.uk/government/publications/how-to-rent/how-to-rent-the-checklist-for-renting-in-england), acá son bastante estrictos con los corredores de propiedades / landlords, y hay algunas cosas particulares que deberian saber:
 
-* Existe una cosa llamada Deposit Protection Scheme (DPS) que es una entidad que se encarga de guardar el "mes de garantía" que siempre te piden, ellos son los que arbitran entre ti y el landlord la devolución del deposit cuando termina el contrato. Esto sólo aplica cuando arriendas un depto o casa entero. 
+* Existe una cosa llamada Deposit Protection Scheme (DPS) que es una entidad que se encarga de guardar el "mes de garantía" que siempre te piden, ellos son los que arbitran entre ti y el landlord la devolución del deposit cuando termina el contrato. Esto sólo aplica cuando arriendas un depto o casa entero. En caso de que solo arrienden una pieza, esto no corre.
 
-* Recomendación para que no te caguen con el depósito, al recibir el lugar, graba un video mostrando el estado de todo, en caso de necesitar una mediación.
+* Recomendación para que no tener problemas con el depósito, al recibir el lugar, graba un video mostrando el estado de todo, en caso de necesitar una mediación.
+
+* Desde el 1 de Julio es ilegal para los corredores cobrar cualquier tipo de fee por firmar un contrato 
+Les recomiendo leer la guia del gobierno de UK para la gente que quiere arrendar [más info aquí](https://www.moneysavingexpert.com/news/2019/01/letting-fees-to-be-banned-from-june/)
 
 
 ## Enviar y recibir dinero
@@ -61,7 +66,7 @@ Para enviar dinero a UK hay un par de opciones, nunca lo he hecho así que no se
 * [Currencybird](https://www.currencybird.cl/) (nunca lo he usado, pero he visto gente que dice cosas buenas)
 * Western union / moneygram o similares (probablemente la mas cara)
 
-Para enviar dinero a Chile recomiendo usar TransferWise porque es rápida y barata (aprox 1.5% del monto, pero con muy buen tipo de cambio) [TransferWise](https://transferwise.com/i/carlosa1138) con ese link la primera transacción hasta 500 GBP es gratis.
+Para enviar dinero a Chile recomiendo usar TransferWise porque es rápida y barata (aprox 1.5% del monto, pero con muy buen tipo de cambio) [TransferWise](https://transferwise.com/i/carlosa1138) con ese link (afiliado) la primera transacción hasta 500 GBP es gratis.
 
 
 ## Viajar dentro de UK
@@ -86,9 +91,9 @@ Google Flights y Skyscanner son mis páginas favoritas para buscar vuelos y ver 
 
 Esta parte contiene una serie de apps que me han hecho la vida más fácil por aca :) Incluye algunos links de referidos.
 
-* [Monzo](https://join.monzo.com/r/701e69o): Monzo es un banco digital gratuito, que te entrega una MasterCard prepago y te permite comprar sin comisiones en todo el mundo. Se recarga a través de la cuenta de banco de UK.
+* [Monzo](https://join.monzo.com/r/701e69o): Monzo es un banco digital gratuito, que te entrega una MasterCard prepago y te permite comprar sin comisiones en todo el mundo. Se recarga a través de la cuenta de banco de UK. La usé un par de veces para pagar un par de cosas.
 
-* Amazon Prime : Si se registran en Amazon con su mail de la universidad (@ac.uk) tendrán 6 meses de Amazon Prime gratis.
+* Amazon Prime: Si se registran en Amazon con su mail de la universidad (@ac.uk) tendrán 6 meses de Amazon Prime gratis.
 
 * [Unidays](https://www.myunidays.com/GB/en-GB): Esta es una página de descuentos exclusivos para estudiantes, siempre tienen varias ofertas bien interesantes.
 
