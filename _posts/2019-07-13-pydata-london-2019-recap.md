@@ -9,6 +9,8 @@ toc_label: "PyData London 2019, Dia 1"
 toc_icon: "user-circle"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
+![logo](https://pydata.org/london2019/static/images/logo.288981a8dfa8.png) 
+
 ## Intro
 
 PyData es una conferencia acerca de los usos de python en tareas aplicadas al analísis de datos y data science en general. Durante 3 días hay más de 40 charlas para asistir en una cantidad de tópicos muy variados. Es organizada por Numfocus, quienes son la entidad legal que representa a casi todas las herramientas de open source del ecosistema como jupyter, pandas, etc. 
