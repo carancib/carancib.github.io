@@ -52,17 +52,11 @@
   {%- assign og_type = "website" -%}
 {%- endif -%}
 
-<<<<<<< HEAD
-{% assign seo_page_image = page.header.image | default: page.header.teaser | default: page.og_image %}
-{% unless seo_page_image contains "://" %}
-  {% assign seo_page_image = seo_page_image | absolute_url %}
-=======
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 <meta name="description" content="{{ seo_description }}">
 
 {% if author.name %}
   <meta name="author" content="{{ author.name | default: author }}">
->>>>>>> parent of 282b9e3... upd
 {% endif %}
 
 <meta property="og:type" content="{{ og_type }}">
