@@ -37,7 +37,7 @@ El repo lo encuentran [aquí](https://github.com/cambridgespark/pydata-testing-f
 
 * *An Introduction to Markov chain Monte Carlo using PyMC3:*
 
-Ser Bayesiano es te hace *cool* así que obviamente iba con todas las ganas a esta charla, que no decepcionó. El speaker era seco y explicó muy bien todos los conceptos desde lo básico y por primera vez usé pymc3. Recomiendo 100% descargar los notebooks del repo y seguir el paso a paso.
+Ser Bayesiano te hace **cool** así que obviamente iba con todas las ganas a esta charla, que no decepcionó. El speaker era seco y explicó muy bien todos los conceptos desde lo básico y por primera vez usé pymc3. Recomiendo 100% descargar los notebooks del repo y seguir el paso a paso.
 
 Link [github](https://github.com/fonnesbeck/mcmc_pydata_london_2019)
 
@@ -79,7 +79,7 @@ Esta charla demostró el trabajo que han hecho en Allegro, el marketplace de eco
 
 Con mi formación en economía siempre me ha llamado la atención la poca importancia que se le da en el modelamiento a la causalidad y las relaciones entre variables, en general me he dado cuenta que en el "Data Science" la especificación correcta del modelo no es importante, lo primero es el poder predictivo.
 
-Esta charla fue una breve introducción a *causal inference* y en general al modelo desarrollado por Judea Pearl (recomiendo leer su libro, The Book of Why) para identificar como las variables del modelo interactúan entre sí, qué variables actuan como *cofounders* y finalmente como digramar esto para lograr encontrar el efecto directo de X sobre Y con la menor posibilidad de sesgo.
+Esta charla fue una breve introducción a *causal inference* y en general al modelo desarrollado por Judea Pearl (recomiendo leer su libro, The Book of Why) para identificar como las variables del modelo interactúan entre sí, qué variables actuan como **confounders** y finalmente como digramar esto para lograr encontrar el efecto directo de X sobre Y con la menor posibilidad de sesgo.
 
 
 * *Prophet at Scale: Using Prophet at scale to tune and forecast time series at Spotify:*
