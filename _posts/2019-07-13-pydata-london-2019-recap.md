@@ -9,7 +9,7 @@ toc_label: "PyData London 2019, Dia 1"
 toc_icon: "user-circle"  # corresponding Font Awesome icon name (without fa prefix)
 header:
   overlay_color: "#333"
-  og_image: https://pydata.org/london2019/static/images/logo.288981a8dfa8.png
+  og_image: https://pydata.org/wp-content/uploads/2019/05/pydata-logo-banner.png
 ---
 
 ## Intro
