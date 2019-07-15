@@ -7,7 +7,8 @@ toc: true
 toc_sticky: true
 toc_label: "PyData London 2019, Dia 1"
 toc_icon: "user-circle"  # corresponding Font Awesome icon name (without fa prefix)
-og_image: https://pydata.org/london2019/static/images/logo.288981a8dfa8.png
+header:
+	og_image: https://pydata.org/london2019/static/images/logo.288981a8dfa8.png
 ---
 
 ![logo](https://pydata.org/london2019/static/images/logo.288981a8dfa8.png){: .align-center}
