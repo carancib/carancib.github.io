@@ -52,7 +52,14 @@
   {%- assign og_type = "website" -%}
 {%- endif -%}
 
+{% assign seo_page_image = page.header.image | default: page.header.teaser | default: page.og_image %}
+{% unless seo_page_image contains "://" %}
+  {% assign seo_page_image = seo_page_image | absolute_url %}
+{% endif %}
 
+{% if seo_page_image %}
+  <meta property="og:image" content="{{ seo_page_image }}">
+{% endif %}
 
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 <meta name="description" content="{{ seo_description }}">
@@ -163,7 +170,4 @@
 {% if site.naver_site_verification %}
   <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
 {% endif %}
-
-{% elsif page.og_image %}
-  <meta property="og:image" content="{% if page.og_image contains "://" %}{{ page.og_image }}{% else %}{{ page.og_image | absolute_url }}{% endif %}">
 <!-- end _includes/seo.html -->
