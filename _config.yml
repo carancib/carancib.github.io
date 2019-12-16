@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "Data&Science"
+title                    : "Carancib.co"
 title_separator          : "-"
 name                     : "Carlos Arancibia"
 description              : "Blog de Data Science"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Carlos Arancibia"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chilean, MSc in Data Analytics at @[SheffieldUni](https://twitter.com/sheffielduni). I like using data to leave things better than they were before."
+  bio              : "Chilean, MSc in Data Analytics at @SheffieldUni. I like using data to leave things better than they were before."
   location         : "Santiago, CL"
   email            : "hola@carancib.co"
   uri              :
