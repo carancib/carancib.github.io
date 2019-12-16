@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Carlos Arancibia"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chilean, MSc in Data Analytics at @SheffieldUni. I like using data to leave things better than they were before."
+  bio              : "Chilean, MSc in Data Analytics at @[SheffieldUni](https://twitter.com/sheffielduni). I like using data to leave things better than they were before."
   location         : "Santiago, CL"
   email            : "hola@carancib.co"
   uri              :
