@@ -1,7 +1,7 @@
 ---
 title: "Corrigiendo reviews inconsistentes en plataformas web"
 date: 2019-07-27
-tags: [post]
+tags: [post, project]
 excerpt: "Una aplicación simple de procesamiento de texto para mejorar la calidad de reviews en plataformas web"
 toc: true
 toc_sticky: true

@@ -1,7 +1,7 @@
 ---
 title: "Explorando datos de AirBnB"
 date: 2019-12-16
-tags: [post]
+tags: [post, project]
 excerpt: "Usando Streamlit para analizar datos"
 toc: false
 toc_sticky: false
