@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-   - title: "CV"
-     url: https://drive.google.com/file/d/18YgsEa2p9Fz-Wm-hBbHS6j_E1_ik45Ar/view?usp=sharing
+  - title: "CV"
+    url: https://drive.google.com/file/d/18YgsEa2p9Fz-Wm-hBbHS6j_E1_ik45Ar/view?usp=sharing
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
